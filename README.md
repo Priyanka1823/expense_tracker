@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <h1 align="center" >
 Xpens
@@ -24,9 +23,7 @@ An app made for you to track your daily expenses
 
 ## Preview of the App
 
-https://github.com/Ritwikgotbugs/Xpens/assets/101137482/f06bb6c3-6170-4e2a-981e-a4fb287c7af3
 
 
-=======
-# expense_tracker
->>>>>>> f3173d55121838291332a9abddc784be3298f26b
+
+
